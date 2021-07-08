@@ -1,0 +1,15 @@
+.box{
+	min-height: 100px;
+	background-color: blueviolet;
+	margin-bottom: 10px;
+}
+
+.mh-300{
+	min-height: 300px;
+	background-color: lightblue;
+	border: 1px solid blueviolet;
+}
+
+.dcolor{
+	color: blueviolet;
+}
